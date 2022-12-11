@@ -1,0 +1,11 @@
+@import './font.scss';
+* {
+  box-sizing: border-box;
+  font-family: 'Exo 2', sans-serif;
+}
+body, html{
+  margin: 0;
+  padding: 0;
+  background: rgb(24, 24, 25);
+  color: white;
+}
